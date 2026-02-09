@@ -76,3 +76,7 @@ USER.md
 .agent/*.json
 !.agent/workflows/
 local/
+
+# Local settings
+.claude/settings.local.json
+docs/architecture.md
